@@ -52,7 +52,8 @@ install.packages("<path>plyrmr*.tar.gz", repos=NULL, type="source")
 
 > $ bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.0.jar pi 10 100
 
-![](/Users/akira_6686/Desktop/Screen\ Shot\ 2015-06-26\ at\ 9.45.36\ AM.png)
+![](http://postimg.org/image/k0bgtt3kn/)
+
 
 2. Test R and Rstudio Server 
 - Using webbrowser to connect to Rstudio Server: http://ec2-54-175-176-84.compute-1.amazonaws.com:8787/
